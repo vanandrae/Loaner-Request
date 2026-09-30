@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Loaner Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Loaner Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">b8f04a0f5c2103107f446f8951492746</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-30 15:36:44</sys_created_on>
+        <sys_id>f5950cd3a06303107f44fa8ef83193b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">3fd40893a06303107f44fa8ef831937d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3fd40893a06303107f44fa8ef831937d</sys_scope>
+        <sys_update_name>sys_wizard_answer_f5950cd3a06303107f44fa8ef83193b0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-30 15:36:44</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_loaner_r_0_loaner_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">3fd40893a06303107f44fa8ef831937d</application>
+        <file_path/>
+        <instance_id>606383b847a38b58ea987585d36d4379</instance_id>
+        <instance_name>nowlearning-nlinst04718920-3rddj-0001</instance_name>
+        <name>sys_wizard_answer_f5950cd3a06303107f44fa8ef83193b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Loaner Request</answer><button_label/><dependent_value/><element/><name>Loaner Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">b8f04a0f5c2103107f446f8951492746</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-09-30 15:36:44</sys_created_on><sys_id>f5950cd3a06303107f44fa8ef83193b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">3fd40893a06303107f44fa8ef831937d</sys_package><sys_policy/><sys_scope display_value="Loaner Request">3fd40893a06303107f44fa8ef831937d</sys_scope><sys_update_name>sys_wizard_answer_f5950cd3a06303107f44fa8ef83193b0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-09-30 15:36:44</sys_updated_on><table/><target_url>x_cdltd_loaner_r_0_loaner_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-796417953</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-30 15:39:28</sys_created_on>
+        <sys_id>f936cc17a06303107f44fa8ef83193a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a0f2f883fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-30 15:39:28</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>b936cc17ec630310caa4d6973357c8a7</update_guid>
+        <update_guid_history>b936cc17ec630310caa4d6973357c8a7:-796417953</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-09-30 15:39:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>01164e6c420745febd7fa3fdec97eed9</sys_id>
+        <sys_metadata>f5950cd3a06303107f44fa8ef83193b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">3fd40893a06303107f44fa8ef831937d</sys_package>
+        <sys_parent display_value="Task">b8f04a0f5c2103107f446f8951492746</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3fd40893a06303107f44fa8ef831937d</sys_scope>
+        <sys_scope_delete display_value="">29c4534ddc1f48509628452aa3f5e100</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f5950cd3a06303107f44fa8ef83193b0</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f5950cd3a06303107f44fa8ef83193b0">f936cc17a06303107f44fa8ef83193a7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-09-30 15:39:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
