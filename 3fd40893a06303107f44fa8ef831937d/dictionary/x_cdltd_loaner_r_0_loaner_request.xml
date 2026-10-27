@@ -15,6 +15,7 @@
                 <element inactive_on_update="false" label="Singapore" sequence="4" value="singapore"/>
             </choice>
         </element>
+        <element label="Pick up reminder" max_length="255" name="pick_up_reminder" type="glide_date_time"/>
         <element label="Start Date" mandatory="true" max_length="255" name="start_date" type="glide_date_time"/>
         <element choice="1" default="cmdb_ci_computer" label="Item type" max_length="255" name="item_type" type="choice">
             <choice>
